@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "C:\Users\alevo\Desktop\mvp test\daw_tracker.py", line 1, in <module>
-    import psutil
-ModuleNotFoundError: No module named 'psutil'
-Traceback (most recent call last):
-  File "C:\Users\alevo\Desktop\mvp test\daw_tracker.py", line 1, in <module>
-    import psutil
-ModuleNotFoundError: No module named 'psutil'
