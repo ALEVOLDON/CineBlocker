@@ -53,3 +53,10 @@ venv/
 # IDEs
 .idea/
 .vscode/
+
+# Application-specific data and logs
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+*.log
