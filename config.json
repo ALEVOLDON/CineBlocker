@@ -1,0 +1,11 @@
+{
+  "daw_process_names": [
+    "FL Studio.exe", "FL64.exe",
+    "Ableton Live 11 Suite.exe", "Ableton Live 10 Suite.exe",
+    "Logic Pro X.app", "Logic Pro X",
+    "reaper.exe", "reaper",
+    "Bitwig Studio.exe", "bitwig-studio",
+    "Studio One.exe",
+    "Cubase.exe", "Cubase12.exe"
+  ]
+}
